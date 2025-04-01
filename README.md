@@ -27,13 +27,13 @@ Dois jogadores se revezam para marcar **X** e **O** em um tabuleiro 3x3, e o pri
 
 ## 📷 Demonstração  
 🔹 **Tela Inicialmente**  
-<img src="jogoVelha/img/inicio.png" width="300px">  
+<img src="JogoVelha/img/inicio.png" width="300px">  
 
 🔹 **O vence**  
-<img src="jogoVelha/img/ovence.png" width="300px">  
+<img src="JogoVelha/img/ovence.png" width="300px">  
 
 🔹 **X vence**  
-<img src="jogoVelha/img/xvence.png" width="300px">  
+<img src="JogoVelha/img/xvence.png" width="300px">  
 
 🔹 **Jogo Acontecendo**  
-<img src="jogoVelha/img/previa.png" width="300px">  
+<img src="JogoVelha/img/previa.png" width="300px">  
